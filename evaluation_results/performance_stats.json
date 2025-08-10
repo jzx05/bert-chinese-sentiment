@@ -1,0 +1,14 @@
+{
+  "total_texts": 24,
+  "avg_confidence": 0.9830716997385025,
+  "avg_processing_time": 0.1383321483929952,
+  "label_distribution": {
+    "负面": 8,
+    "正面": 16
+  },
+  "confidence_distribution": {
+    "高置信度 (>0.8)": 24,
+    "中置信度 (0.6-0.8)": 0,
+    "低置信度 (<0.6)": 0
+  }
+}

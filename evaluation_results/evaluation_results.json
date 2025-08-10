@@ -1,0 +1,170 @@
+[
+  {
+    "text": "我今天心情很糟糕",
+    "label": "负面",
+    "label_id": 0,
+    "confidence": 0.9999010562896729,
+    "processing_time": 2.206498622894287
+  },
+  {
+    "text": "这部电影太无聊了，浪费时间",
+    "label": "负面",
+    "label_id": 0,
+    "confidence": 0.9998974800109863,
+    "processing_time": 0.05496644973754883
+  },
+  {
+    "text": "服务态度很差，不会再来了",
+    "label": "负面",
+    "label_id": 0,
+    "confidence": 0.9998958110809326,
+    "processing_time": 0.04700016975402832
+  },
+  {
+    "text": "产品质量太差了，很失望",
+    "label": "负面",
+    "label_id": 0,
+    "confidence": 0.999771773815155,
+    "processing_time": 0.044603586196899414
+  },
+  {
+    "text": "今天工作特别累，想休息",
+    "label": "负面",
+    "label_id": 0,
+    "confidence": 0.8592801094055176,
+    "processing_time": 0.03393054008483887
+  },
+  {
+    "text": "这个决定太愚蠢了",
+    "label": "负面",
+    "label_id": 0,
+    "confidence": 0.999893069267273,
+    "processing_time": 0.040993690490722656
+  },
+  {
+    "text": "交通堵塞让人烦躁",
+    "label": "负面",
+    "label_id": 0,
+    "confidence": 0.9998372793197632,
+    "processing_time": 0.042001962661743164
+  },
+  {
+    "text": "价格太贵了，不值得",
+    "label": "负面",
+    "label_id": 0,
+    "confidence": 0.9997308850288391,
+    "processing_time": 0.04100489616394043
+  },
+  {
+    "text": "今天天气真好，心情愉快",
+    "label": "正面",
+    "label_id": 1,
+    "confidence": 0.9990983009338379,
+    "processing_time": 0.04899787902832031
+  },
+  {
+    "text": "这家餐厅的菜很好吃，推荐！",
+    "label": "正面",
+    "label_id": 1,
+    "confidence": 0.9285832047462463,
+    "processing_time": 0.06700515747070312
+  },
+  {
+    "text": "学习新知识很有趣",
+    "label": "正面",
+    "label_id": 1,
+    "confidence": 0.9697853326797485,
+    "processing_time": 0.04199481010437012
+  },
+  {
+    "text": "朋友聚会很开心",
+    "label": "正面",
+    "label_id": 1,
+    "confidence": 0.9992795586585999,
+    "processing_time": 0.03800773620605469
+  },
+  {
+    "text": "工作顺利完成，很有成就感",
+    "label": "正面",
+    "label_id": 1,
+    "confidence": 0.9987697005271912,
+    "processing_time": 0.052004337310791016
+  },
+  {
+    "text": "这个想法很棒",
+    "label": "正面",
+    "label_id": 1,
+    "confidence": 0.995671272277832,
+    "processing_time": 0.037988901138305664
+  },
+  {
+    "text": "风景太美了，让人心旷神怡",
+    "label": "正面",
+    "label_id": 1,
+    "confidence": 0.9993768334388733,
+    "processing_time": 0.047997474670410156
+  },
+  {
+    "text": "孩子很聪明，学习进步很快",
+    "label": "正面",
+    "label_id": 1,
+    "confidence": 0.9814009666442871,
+    "processing_time": 0.04401254653930664
+  },
+  {
+    "text": "虽然今天下雨了，但是和朋友聊天很开心",
+    "label": "正面",
+    "label_id": 1,
+    "confidence": 0.9992709755897522,
+    "processing_time": 0.05710315704345703
+  },
+  {
+    "text": "这部电影剧情一般，但是演员演技不错",
+    "label": "正面",
+    "label_id": 1,
+    "confidence": 0.9659562110900879,
+    "processing_time": 0.07800078392028809
+  },
+  {
+    "text": "工作很忙很累，但是看到成果很有成就感",
+    "label": "正面",
+    "label_id": 1,
+    "confidence": 0.9957398176193237,
+    "processing_time": 0.06271052360534668
+  },
+  {
+    "text": "价格有点贵，但是质量确实很好",
+    "label": "正面",
+    "label_id": 1,
+    "confidence": 0.9991394281387329,
+    "processing_time": 0.04681968688964844
+  },
+  {
+    "text": "学习很辛苦，但是为了梦想值得",
+    "label": "正面",
+    "label_id": 1,
+    "confidence": 0.9989664554595947,
+    "processing_time": 0.04434394836425781
+  },
+  {
+    "text": "天气不太好，但是心情还不错",
+    "label": "正面",
+    "label_id": 1,
+    "confidence": 0.9737520217895508,
+    "processing_time": 0.049005746841430664
+  },
+  {
+    "text": "路程有点远，但是风景很美",
+    "label": "正面",
+    "label_id": 1,
+    "confidence": 0.9980126619338989,
+    "processing_time": 0.04792308807373047
+  },
+  {
+    "text": "开始有点困难，但是慢慢就适应了",
+    "label": "正面",
+    "label_id": 1,
+    "confidence": 0.932710587978363,
+    "processing_time": 0.04505586624145508
+  }
+]
