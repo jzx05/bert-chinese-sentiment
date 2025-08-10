@@ -41,7 +41,7 @@ fine_tuning/
 
 ```bash
 # 克隆项目
-git clone https://github.com/yourusername/bert-chinese-sentiment.git
+git clone https://github.com/jzx05/bert-chinese-sentiment.git
 cd bert-chinese-sentiment/fine_tuning
 
 # 安装依赖包
