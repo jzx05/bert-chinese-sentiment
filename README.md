@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 一个基于 BERT 预训练模型的中文情感分析微调项目，支持模型训练、评估和推理。该项目使用 Hugging Face Transformers 库，针对中文文本进行情感分析任务。
-
+模型下载地址: https://www.modelscope.cn/models/jzx005/sentiment_model/files
 ## ✨ 主要特性
 
 - 🎯 **中文情感分析**: 基于 BERT-base-chinese 预训练模型
